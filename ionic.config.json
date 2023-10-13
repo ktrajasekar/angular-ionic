@@ -1,0 +1,7 @@
+{
+  "name": "samwat-crew-app",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
